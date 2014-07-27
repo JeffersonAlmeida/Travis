@@ -7,6 +7,6 @@ import doublef.com.travis.NewFeature;
 public class TestNewFeature {
 	@Test
 	public void testMethod2() {
-		assertEquals(10, new NewFeature().method2());
+		assertEquals(20, new NewFeature().method2());
 	}
 }
