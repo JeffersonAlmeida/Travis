@@ -7,7 +7,8 @@ public class Travis {
 	}
 	
 	public static void main(String[] args) {
-
+		System.out.println("Travis First Project");
+		System.out.println("method return:" + new Travis().method());
 	}
 
 }
