@@ -1,11 +1,11 @@
-package test;
+package test.java;
 
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
 
 import doublef.com.travis.Travis;
 
-public class TestTravisClass {
+public class TestTravis {
 
 	@Test
 	public void testMethod() {
